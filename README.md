@@ -14,7 +14,7 @@
 - **Etkileyici Slogan**: "Türkiye'nin Yeni Araç Alım Sitesi" 
 - **Ana Değer Önerisi**: "Hayalinizdeki Aracı Kolayca Bulun"
 - **Güven İnşa Eden İstatistikler**:
-  - 100+ Aktif İlan
+  - 1000+ Aktif İlan
   - %98 Müşteri Memnuniyeti
 - **Hızlı Arama Formu**: Anasayfada direkt araç arama imkanı
 
